@@ -1,0 +1,4 @@
+streamlit==1.24.0
+vllm==0.1.0
+transformers==4.30.0
+torch==1.13.1
